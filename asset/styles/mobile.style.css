@@ -1,0 +1,9 @@
+@media only screen and (max-width: 600px) {
+    .container1-1 {
+        flex-direction: column;
+    }
+
+    .display-card {
+        width: 60%;
+    }
+}
